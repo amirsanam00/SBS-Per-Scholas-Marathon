@@ -1,0 +1,46 @@
+body{
+    background: #8ecae6;
+}
+h1, h2, h3{
+    font-style:oblique;
+    text-decoration-color: black;
+    text-decoration-line: underline;
+    text-decoration-style: line;
+}
+
+#lego {
+    width: 100px;
+}
+#Starbucks{
+    width: 200px;
+}
+
+#hp {
+    width: 300px;
+}
+
+.tab-buttons {
+    display: flex;
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.tab-btn {
+    flex: 1;
+    padding: 10px;
+    cursor: pointer;
+    background: #f4f4f4;
+    border: none;
+    border-right: 1px solid #ccc;
+    outline: none;
+    text-align: center;
+}
+
+.tab-btn.active {
+    background: #ddd;
+    font-weight: bold;
+}
+
+
+
+
