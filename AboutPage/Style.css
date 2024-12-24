@@ -6,5 +6,17 @@ h1{
 }
 
 body{
-    background-color: #0077b6;
+    background: #8ecae6;
+}
+
+.container-fluid{
+    background-color: #8ecae6
+}
+.navbar-brand{
+    text-decoration: underline;
+    font-family: Papyrus;
+}
+.navbar{
+    text-decoration: solid;
+    color: black;
 }

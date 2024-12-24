@@ -1,6 +1,17 @@
 body{
     background: #8ecae6;
 }
+.container-fluid{
+    background-color: #8ecae6
+}
+.navbar-brand{
+    text-decoration: underline;
+    font-family: Papyrus;
+}
+.navbar{
+    text-decoration: solid;
+    color: black;
+}
 h1, h2, h3{
     font-style:oblique;
     text-decoration-color: black;
