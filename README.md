@@ -19,4 +19,4 @@ This is a Per Scholas Marathon website designed as a Event, Registration and Con
 2. Open the project folder:
     ```bash
     cd repository-SBA-Per Scholas Marathon
-3. Open index.html in your preferred browser to view the website.
+3. Open SBA folder in your preferred browser then go thorought each folders to view the website.
